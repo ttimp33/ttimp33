@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tyler Timpanaro
+Hi 👋, My name is Tyler Timpanaro
 ========================================================================================================================================
 
 Lead Systems Engineer & Product Developer
 -----------------------------------------
 
-Lead Systems Engineer & Product Developer passionate about developing solutions to difficult problems.
+Passionate about developing solutions to solving difficult problems.
 
 * 🌍  I'm based in Mount Laurel, NJ
 * 🖥️  See my portfolio at [ttimp.dev](http://ttimp.dev)
