@@ -7,7 +7,6 @@ Lead Systems Engineer & Product Developer
 Passionate about developing solutions to solving difficult problems.
 
 * 🌍  I'm based in Mount Laurel, NJ
-* 🖥️  See my portfolio at [ttimp.dev](http://ttimp.dev)
 * ✉️  You can contact me at [tyler.timpanaro@gmail.com](mailto:tyler.timpanaro@gmail.com)
 * 🧠  I'm currently learning Rust + Agentic AI
 
